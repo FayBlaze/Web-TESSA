@@ -17,6 +17,9 @@
 - Nadzli Dhea Syahrani
 - ad
 
+### UI/UX
+1. Home
+
 
 ## PRD
 # Product Requirements Document (PRD)
