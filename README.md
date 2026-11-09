@@ -6,7 +6,7 @@
 - as
 
 **Back-End :**
-- as
+- M. Hafiidz
 - as
 
 **UI/UX :**
@@ -17,12 +17,33 @@
 - Nadzli Dhea Syahrani
 - ad
 
-### UI/UX
-1. Home
-
-
-## PRD
 # Product Requirements Document (PRD)
+### UI/UX
+1. Home  
+Navbar ➔ logo TESSA, text "TESSA", burger icon(event, berita, tentang)  
+Main  
+↳ Hero section ➔ Motto tessa(berkarya, berdampak berprestasi), countdown TCA  
+↳ Container section ➔ News, visi misi
+Footer ➔ Credit
+
+2. Event  
+Navbar ➔ logo TESSA, text "TESSA", burger icon(event, visi misi, gallery, tentang)  
+Main ➔ Div registrasi  
+Footer ➔ Credit  
+
+3. Gallery  
+Navbar ➔ logo TESSA, text "TESSA", burger icon(event, visi misi, berita, tentang)  
+Main ➔ Div berita (laporan kegiatan yang baru dilaksanakan) 
+Footer ➔ Credit  
+
+4. Tentang
+Navbar ➔ logo TESSA, text "TESSA", burger icon(event, visi misi, berita, tentang)  
+Main ➔ visi misi, tim developer
+Footer ➔ Credit  
+
+**Font and Color**
+- Font : Coolvetica
+- 
 
 ## Website Organisasi & Event Registration
 
